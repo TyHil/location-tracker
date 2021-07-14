@@ -1,6 +1,6 @@
 # game-rectangular-prism
 ## Description
-Logs location data to a micro SD card to display on a map
+Logs location data to a micro SD card to display on a map. Built around a 9v battery with an Arduino Nano, NEO-6M GPS board and receiver, Micro SD card reader, and a pair of neodymium magnets.
 ## Photos
 ![Location tracker with GPS antenna, Arduino Nano, and Micro SD card reader visible](Photos/20210330_200040.jpg)
 ![Location tracker with GPS reciever, Arduino Nano, power switch, and part of the 9v battery visible](Photos/20210330_200054.jpg)
